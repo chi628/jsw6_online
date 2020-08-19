@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-19286b3d"],{"64a5":function(t,n,e){"use strict";var r=e("7ba0"),a=e.n(r);a.a},"7ba0":function(t,n,e){},be5f:function(t,n,e){"use strict";e.r(n);var r=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[e("h1",[t._v("This is Cart Checkout")]),e("router-link",{attrs:{to:"/orderchecked"}},[t._v("送出訂單")])],1)},a=[],c=(e("64a5"),e("2877")),u={},i=Object(c["a"])(u,r,a,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-19286b3d.2aa76698.js.map
